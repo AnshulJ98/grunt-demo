@@ -1,0 +1,10 @@
+ul.navbar a {
+    text-decoration: none }
+  #xx a:link {
+    color: red }
+  a:visited {
+    color: green }
+  #address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
